@@ -1,0 +1,10 @@
+rootProject.name = 'springboot-modules-mvc'
+
+include 'smm-dao'
+include 'smm-util'
+include 'smm-common'
+include 'smm-service'
+
+include 'smm-nodejs-server'
+include 'smm-workflow-server'
+
